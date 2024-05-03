@@ -40,14 +40,6 @@ Robotics, Automation, Control Theory, C++, Python, Java, ROS, Linux, Docker, git
 **Gimnazija Nova Gradiška**
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 ## Other
 
 `2020 - now`

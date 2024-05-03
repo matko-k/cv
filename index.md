@@ -1,45 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matko's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matko Kušenić
+Senior Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="matkokusenic@gmail.com">matkokusenic@gmail.com</a>
+| </a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`2020 - now`
+**Senior Software Engineer** @ IncubedIT, a Verizon company
+
+`2019 - 2020`
+**QA Software Engineer** @ Gideon
+
+`2017 - 2019`
+**Software Engineer** @ Stanic Automation
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Robotics, Automation, Control Theory, C++, Python, Java, ROS, Linux, Docker, git
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012 - 2017`
+**Faculty of Electrical Engineering and Computing**, Zagreb <br>MSc. Control Engineering and Automation
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016 - 2017`
+**Faculty of Engineering**, Porto <br>Electrical engineering, Erasmus+ student
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2008 - 2012`
+**Gimnazija Nova Gradiška**
 
 
 ## Awards
@@ -50,37 +48,10 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
+## Other
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020 - now`
+**Volunteer STEM Educator** @ Udruga STEMALICA
 
 
 
